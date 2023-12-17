@@ -55,6 +55,10 @@
 5. Open your web browser and visit [http://localhost:3000](http://localhost:8080) to see the app in action.
 
 ## Features
+### Postman Documentation
+```
+https://documenter.getpostman.com/view/23663611/2s9Ykn9Mjr
+```
 1. Create User
     ```
     Endpoint: POST /users
